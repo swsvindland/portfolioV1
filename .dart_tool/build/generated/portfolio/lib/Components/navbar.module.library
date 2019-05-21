@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","portfolio|lib/Pages/home.dart","portfolio|lib/Pages/algorithms.dart","portfolio|lib/Pages/games.dart","portfolio|lib/Pages/mobile.dart","portfolio|lib/Pages/websites.dart","portfolio|lib/main.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

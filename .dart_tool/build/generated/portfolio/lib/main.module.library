@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","portfolio|lib/Pages/home.dart","portfolio|lib/Components/navbar.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}
